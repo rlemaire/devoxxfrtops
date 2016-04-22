@@ -1,0 +1,188 @@
+Talk ID; Track; Talk Type; Talk Title; nb votes; sum; avg
+XJJ-2449;La médecine de demain;Future, Robotique;Keynote;La médecine de demain;185;757;4.0918918919
+ROS-2555;Algorithmes, les nouveaux pouvoirs du développeur;DevOps, Agilité, Méthodologie & Tests;Keynote;Algorithmes, les nouveaux pouvoirs du développeur;167;795;4.7604790419
+FFP-4375;L'entrepreunariat au feminin;DevOps, Agilité, Méthodologie & Tests;Keynote;L'entrepreunariat au feminin;166;511;3.078313253
+UND-3099;De l'utopie de la fin du travail au digital labour;Langages alternatifs;Keynote;De l'utopie de la fin du travail au digital labour;156;682;4.3717948718
+MSB-2893;The impact of code in society;DevOps, Agilité, Méthodologie & Tests;Keynote;The impact of code in society;155;585;3.7741935484
+OOX-6202;Software development, responsibility and ethics: the coming crisis;Future, Robotique;Keynote;Software development, responsibility and ethics: the coming crisis;141;489;3.4680851064
+QXO-1374;Le Service Public à l'heure d'internet;DevOps, Agilité, Méthodologie & Tests;Keynote;Le Service Public à l'heure d'internet;133;567;4.2631578947
+JEE-4171;100% Stateless avec JWT (JSON Web Token);Architecture, Performance et Securité;Conference;100% Stateless avec JWT (JSON Web Token);122;534;4.3770491803
+XBY-0882;Retours sur Java 8;Java, JVM, Javas SE/EE;Conference;Retours sur Java 8;119;481;4.0420168067
+HIE-2060;String Concatenation de 1 à 9;Java, JVM, Javas SE/EE;Conference;String Concatenation de 1 à 9;110;462;4.2
+EMT-1932;Containers, VMs, Processes… Isolation, performances, I/O… How all of these technologies work and compare to each other? ;DevOps, Agilité, Méthodologie & Tests;Conference;Containers, VMs, Processes… Isolation, performances, I/O… How all of these technologies work and compare to each other? ;107;469;4.3831775701
+ARO-4748;Le design d'API REST, un débat sans fin ?;Web, HTML5 et UX;Conference;Le design d'API REST, un débat sans fin ?;104;419;4.0288461538
+MKN-4721;Apache Maven, Java 9 et le projet Jigsaw;Java, JVM, Javas SE/EE;Tools-in-Action;Apache Maven, Java 9 et le projet Jigsaw;95;330;3.4736842105
+ASO-0671;OutOfMemoryException : Quel est le coût des objets en Java ?;Architecture, Performance et Securité;Conference;OutOfMemoryException : Quel est le coût des objets en Java ?;93;382;4.1075268817
+EMM-1176;Architecture découplée grâce aux Reactive Extensions;Architecture, Performance et Securité;University;Architecture découplée grâce aux Reactive Extensions;89;298;3.3483146067
+ALG-8892;HTTPS n’aura plus de secret pour vous;Architecture, Performance et Securité;Conference;HTTPS n’aura plus de secret pour vous;83;332;4
+MLX-6500;Hibernate tu connais... mais en fait tu connais pas;Java, JVM, Javas SE/EE;Conference;Hibernate tu connais... mais en fait tu connais pas;81;323;3.987654321
+EQA-4730;Just enough app server;Java, JVM, Javas SE/EE;Conference;Just enough app server;80;371;4.6375
+BMC-3947;De Jenkins Maven/Freestyle à Pipeline;DevOps, Agilité, Méthodologie & Tests;Tools-in-Action;De Jenkins Maven/Freestyle à Pipeline;80;324;4.05
+QLG-5295;Java SE 8 pour les développeurs Java EE;Java, JVM, Javas SE/EE;Conference;Java SE 8 pour les développeurs Java EE;75;300;4
+VBK-3044;Jigsaw est là pour nous sauver;Java, JVM, Javas SE/EE;Conference;Jigsaw est là pour nous sauver;71;305;4.2957746479
+SMP-6581;La Blockchain en détail;Future, Robotique;University;La Blockchain en détail;64;272;4.25
+QVW-3514;Elasticsearch et Hibernate sont sur un bateau...;Big Data & Analytics;Tools-in-Action;Elasticsearch et Hibernate sont sur un bateau...;64;279;4.359375
+WCM-2147;Stack Overflow behind the scenes - how it's made;Architecture, Performance et Securité;Conference;Stack Overflow behind the scenes - how it's made;62;253;4.0806451613
+JNM-1571;Ionic, le framework mobile hybride carrément addictif;Mobile, IoT;Conference;Ionic, le framework mobile hybride carrément addictif;60;257;4.2833333333
+DVF-7835;Docker for Windows & Mac : mais pourquoi on n'a pas eu ça dès le début ?;Cloud et Scaling;Conference;Docker for Windows & Mac : mais pourquoi on n'a pas eu ça dès le début ?;60;244;4.0666666667
+GZE-6817;(Jenkins, Docker) -> { Orchestrons le Continuous Delivery };DevOps, Agilité, Méthodologie & Tests;Conference;(Jenkins, Docker) -> { Orchestrons le Continuous Delivery };59;245;4.1525423729
+FUA-9381;Ratez vos revues de code en 5 leçons !;DevOps, Agilité, Méthodologie & Tests;Quickie;Ratez vos revues de code en 5 leçons !;57;244;4.2807017544
+BYX-3027;Intégration et déploiement en continu @ Github;DevOps, Agilité, Méthodologie & Tests;Conference;Intégration et déploiement en continu @ Github;57;252;4.4210526316
+AIQ-7355;Progressive Web Apps;Web, HTML5 et UX;Conference;Progressive Web Apps;56;242;4.3214285714
+XFE-1586;Spring Boot 1.3 pour le web;Java, JVM, Javas SE/EE;University;Spring Boot 1.3 pour le web;56;258;4.6071428571
+SKY-1363;Modular monoliths;Architecture, Performance et Securité;Conference;Modular monoliths;56;254;4.5357142857
+JHE-8261;ArrayList et LinkedList sont dans un bateau;Java, JVM, Javas SE/EE;University;ArrayList et LinkedList sont dans un bateau;54;227;4.2037037037
+VTL-8528;Mon appli est secure ! Enfin je crois...;Architecture, Performance et Securité;Tools-in-Action;Mon appli est secure ! Enfin je crois...;54;202;3.7407407407
+AWD-4678;Cycle de vie des images Docker : problèmes et solutions;DevOps, Agilité, Méthodologie & Tests;Conference;Cycle de vie des images Docker : problèmes et solutions;54;184;3.4074074074
+CRG-2478;ES6+ maintenant ! (conférence);Langages alternatifs;Conference;ES6+ maintenant ! (conférence);51;233;4.568627451
+NJY-3400;Dashing deux en un, pour un dashboard étincelant!;DevOps, Agilité, Méthodologie & Tests;Tools-in-Action;Dashing deux en un, pour un dashboard étincelant!;49;192;3.9183673469
+TOQ-2813;How to stop wasting your time and start performing useful code reviews;DevOps, Agilité, Méthodologie & Tests;Conference;How to stop wasting your time and start performing useful code reviews;49;221;4.5102040816
+DTC-1134;Sécuriser ses applications back et front facilement avec Keycloak;Architecture, Performance et Securité;Tools-in-Action;Sécuriser ses applications back et front facilement avec Keycloak;48;213;4.4375
+YXM-4879;la-quête-du-graal.js;Web, HTML5 et UX;Conference;la-quête-du-graal.js;46;169;3.6739130435
+TYZ-1681;Typescript, typer pour mieux coder;Web, HTML5 et UX;Tools-in-Action;Typescript, typer pour mieux coder;46;183;3.9782608696
+KLX-0415;DevOps vu par un Hacker;DevOps, Agilité, Méthodologie & Tests;Conference;DevOps vu par un Hacker;46;144;3.1304347826
+DFT-7867;Let's React;Web, HTML5 et UX;Conference;Let's React;44;187;4.25
+ANE-8988;Performance: Java vous déclare sa flamme;Architecture, Performance et Securité;Tools-in-Action;Performance: Java vous déclare sa flamme;44;167;3.7954545455
+ARM-9209;Pourquoi il ne suffira pas de faire du HTTP 2.0 pour faire des applications performantes...;Architecture, Performance et Securité;University;Pourquoi il ne suffira pas de faire du HTTP 2.0 pour faire des applications performantes...;44;196;4.4545454545
+REU-5654;Faire découvrir la programmation aux enfants, un atelier à la fois;Future, Robotique;Conference;Faire découvrir la programmation aux enfants, un atelier à la fois;44;197;4.4772727273
+NJW-9734;Property-Based Testing, enfin pour tout le monde;DevOps, Agilité, Méthodologie & Tests;University;Property-Based Testing, enfin pour tout le monde;44;175;3.9772727273
+AGY-6299;SSE : le Streaming Simple et Efficace, sans WebSocket;Web, HTML5 et UX;Quickie;SSE : le Streaming Simple et Efficace, sans WebSocket;42;154;3.6666666667
+QXZ-0728;The Bootiful Microservice;Cloud et Scaling;Conference;The Bootiful Microservice;42;202;4.8095238095
+CXS-8731;Living Documentation : vous allez aimer la documentation !;Architecture, Performance et Securité;Conference;Living Documentation : vous allez aimer la documentation !;41;178;4.3414634146
+OAR-2740;Devenez un King avec Kong;DevOps, Agilité, Méthodologie & Tests;Quickie;Devenez un King avec Kong;41;148;3.6097560976
+BFE-4198;Ce que les stratégies de versioning nous disent des dynamiques d’équipe;DevOps, Agilité, Méthodologie & Tests;Conference;Ce que les stratégies de versioning nous disent des dynamiques d’équipe;41;149;3.6341463415
+QZZ-4510;D'Angular 1 à Angular 2 : Préparez vous dès maintenant à la migration;Web, HTML5 et UX;Conference;D'Angular 1 à Angular 2 : Préparez vous dès maintenant à la migration;40;153;3.825
+RKG-1102;Kill all the REST with the Falcor;Web, HTML5 et UX;Conference;Kill all the REST with the Falcor;40;155;3.875
+TSH-1394;Microservices IRL: ça fonctionne chez un client, on vous dit comment!;Architecture, Performance et Securité;Conference;Microservices IRL: ça fonctionne chez un client, on vous dit comment!;40;145;3.625
+NRT-2101;Paris est résilient;Architecture, Performance et Securité;Conference;Paris est résilient;39;161;4.1282051282
+NNW-4596;How does Clever Cloud work? Radical decisions leads to great design.;Architecture, Performance et Securité;University;How does Clever Cloud work? Radical decisions leads to great design.;39;166;4.2564102564
+USZ-6984;TDD, comme dans Type-Directed Development;DevOps, Agilité, Méthodologie & Tests;Conference;TDD, comme dans Type-Directed Development;39;130;3.3333333333
+UCB-4207;Kubernetes University, Cap sur l’orchestration Docker !;Cloud et Scaling;University;Kubernetes University, Cap sur l’orchestration Docker !;39;158;4.0512820513
+DCF-5108;La magie des structures d'Elasticsearch et de Lucene;Big Data & Analytics;Quickie;La magie des structures d'Elasticsearch et de Lucene;37;131;3.5405405405
+WKF-9086;Flexbox, et le CSS redevient fun !;Web, HTML5 et UX;Tools-in-Action;Flexbox, et le CSS redevient fun !;36;174;4.8333333333
+CJF-5290;L'ISS en temps réel sur mon mobile en 15 mn ? Pari tenu !;Mobile, IoT;Quickie;L'ISS en temps réel sur mon mobile en 15 mn ? Pari tenu !;34;158;4.6470588235
+OOT-8042;Feign(ant) in Action;Java, JVM, Javas SE/EE;Tools-in-Action;Feign(ant) in Action;34;147;4.3235294118
+FUG-9384;Java Agent en Action - Révéler la face cachée de vos applications;Java, JVM, Javas SE/EE;Quickie;Java Agent en Action - Révéler la face cachée de vos applications;34;149;4.3823529412
+OJD-3590;Get Hip with JHipster: Spring Boot + AngularJS + Bootstrap;Web, HTML5 et UX;Conference;Get Hip with JHipster: Spring Boot + AngularJS + Bootstrap;33;153;4.6363636364
+XAA-9415;Apprendre à utiliser la cryptographie par l’attaque;Architecture, Performance et Securité;Conference;Apprendre à utiliser la cryptographie par l’attaque;33;115;3.4848484848
+VDC-1697;3 heures pour développer un microservice avec les micro frameworks Java;Java, JVM, Javas SE/EE;Hands-on Labs;3 heures pour développer un microservice avec les micro frameworks Java;32;134;4.1875
+VZJ-1808;Développez votre première application décentralisée sur la blockchain avec Ethereum et Embark;Langages alternatifs;Quickie;Développez votre première application décentralisée sur la blockchain avec Ethereum et Embark;31;112;3.6129032258
+IXR-3448;Gradle: Harder, Better, Stronger, Faster ;Java, JVM, Javas SE/EE;Conference;Gradle: Harder, Better, Stronger, Faster ;31;126;4.064516129
+DCU-9728;Akka: découvrons les bases;Langages alternatifs;Tools-in-Action;Akka: découvrons les bases;30;94;3.1333333333
+MJC-3944;High-Performance Hibernate;Java, JVM, Javas SE/EE;Conference;High-Performance Hibernate;30;115;3.8333333333
+MXS-1433;Société programmable : développeurs citoyens;Future, Robotique;Conference;Société programmable : développeurs citoyens;30;95;3.1666666667
+WSZ-9589;A la découverte du service discovery;DevOps, Agilité, Méthodologie & Tests;Conference;A la découverte du service discovery;30;110;3.6666666667
+ZYB-4570;L'Expérience Développeur et votre API;Web, HTML5 et UX;Quickie;L'Expérience Développeur et votre API;29;106;3.6551724138
+XVG-8601;Quoi de neuf pour JHipster en 2016;Java, JVM, Javas SE/EE;Conference;Quoi de neuf pour JHipster en 2016;29;132;4.5517241379
+ROC-7855;Angular 2 hands on;Web, HTML5 et UX;Hands-on Labs;Angular 2 hands on;28;84;3
+LPR-1072;RAML une autre façon de concevoir vos APIs RESTful;Web, HTML5 et UX;Tools-in-Action;RAML une autre façon de concevoir vos APIs RESTful;28;105;3.75
+MQY-9189;De l'IOT, des timeseries et de la prédiction avec Android, Cassandra et Spark;Mobile, IoT;Conference;De l'IOT, des timeseries et de la prédiction avec Android, Cassandra et Spark;28;126;4.5
+TPC-0987;Le réveil de la Thread;Java, JVM, Javas SE/EE;Quickie;Le réveil de la Thread;28;94;3.3571428571
+SFP-8981;DDD: et si on reprenait l'histoire par le bon bout ?;DevOps, Agilité, Méthodologie & Tests;Conference;DDD: et si on reprenait l'histoire par le bon bout ?;28;132;4.7142857143
+CIQ-9112;Traefik, a modern reverse-proxy;Cloud et Scaling;Conference;Traefik, a modern reverse-proxy;28;129;4.6071428571
+JPO-6935;Architecture Android et bonnes pratiques;Mobile, IoT;University;Architecture Android et bonnes pratiques;27;118;4.3703703704
+BNV-8282;JGiven: enfin une réelle documentation vivante.;DevOps, Agilité, Méthodologie & Tests;Tools-in-Action;JGiven: enfin une réelle documentation vivante.;27;93;3.4444444444
+WDS-8333;Test Driven Infrastructure avec Docker ;DevOps, Agilité, Méthodologie & Tests;Tools-in-Action;Test Driven Infrastructure avec Docker ;27;97;3.5925925926
+BAW-6639;Boucle de feedback pour le développeur;DevOps, Agilité, Méthodologie & Tests;Tools-in-Action;Boucle de feedback pour le développeur;26;93;3.5769230769
+KIM-0980;// TODO Implémenter le modèle de l’entreprise [de service] de demain;DevOps, Agilité, Méthodologie & Tests;Conference;// TODO Implémenter le modèle de l’entreprise [de service] de demain;26;105;4.0384615385
+IYV-4152;Lean Startup pour les développeurs;DevOps, Agilité, Méthodologie & Tests;University;Lean Startup pour les développeurs;26;109;4.1923076923
+ZIT-7148;Vue.js une alternative plus simple que React.js et Angular2 ?;Web, HTML5 et UX;Tools-in-Action;Vue.js une alternative plus simple que React.js et Angular2 ?;25;93;3.72
+LYB-0268;Vert.x - passez de 0 à (micro-) héros;Java, JVM, Javas SE/EE;Hands-on Labs;Vert.x - passez de 0 à (micro-) héros;25;95;3.8
+AWB-3163;Git ProTips (HoL);DevOps, Agilité, Méthodologie & Tests;Hands-on Labs;Git ProTips (HoL);25;116;4.64
+CMA-1989;Quoi d'neuf Docker - live : Docker sur ARM;Cloud et Scaling;Tools-in-Action;Quoi d'neuf Docker - live : Docker sur ARM;25;110;4.4
+OYI-4243;Conquérir le desktop avec Electron;Langages alternatifs;Tools-in-Action;Conquérir le desktop avec Electron;24;73;3.0416666667
+EOG-2258;Ansible hors des sentiers battus;DevOps, Agilité, Méthodologie & Tests;Conference;Ansible hors des sentiers battus;24;85;3.5416666667
+FNG-2673;Déployez vos applications sur un cluster Kubernetes avec Ansible;Cloud et Scaling;Hands-on Labs;Déployez vos applications sur un cluster Kubernetes avec Ansible;24;88;3.6666666667
+ZGV-0818;Systèmes distribués, scotch, bouts de ficelle et doigts croisés : une histoire du Streaming à Criteo;Big Data & Analytics;Conference;Systèmes distribués, scotch, bouts de ficelle et doigts croisés : une histoire du Streaming à Criteo;24;106;4.4166666667
+LUI-4351;The Art of Angular in 2016;Web, HTML5 et UX;Conference;The Art of Angular in 2016;23;85;3.6956521739
+MJJ-0533;Des LEDs pour remplacer votre routeur WIFI ?;Mobile, IoT;Quickie;Des LEDs pour remplacer votre routeur WIFI ?;23;92;4
+UJO-7665;Analyzing Images with Google's Cloud Vision API;Mobile, IoT;Quickie;Analyzing Images with Google's Cloud Vision API;23;96;4.1739130435
+TIN-5425;Un assembleur dynamique sur la JVM ?;Java, JVM, Javas SE/EE;Conference;Un assembleur dynamique sur la JVM ?;23;102;4.4347826087
+WKC-6551;Combining stream processing and in-memory datagrids for near-real time aggregation & notifications;Architecture, Performance et Securité;Conference;Combining stream processing and in-memory datagrids for near-real time aggregation & notifications;23;76;3.3043478261
+JGT-7450;Blockchain as a Trust Machine ? Vers une économie programmable ;Future, Robotique;Conference;Blockchain as a Trust Machine ? Vers une économie programmable ;23;96;4.1739130435
+UDW-3386;Vert.x pour l'IoT dans l'embarqué;Mobile, IoT;Conference;Vert.x pour l'IoT dans l'embarqué;22;90;4.0909090909
+XIO-3138;DevOps sur Android : D'un git push à une release sur le Play Store;Mobile, IoT;Conference;DevOps sur Android : D'un git push à une release sur le Play Store;22;91;4.1363636364
+RQQ-7419;I'm a CTO bitch! ou Pérégrination d'un CTO;DevOps, Agilité, Méthodologie & Tests;Conference;I'm a CTO bitch! ou Pérégrination d'un CTO;22;102;4.6363636364
+IWY-9598;OpenShift : le PaaS à la sauce Kubernetes et Docker;Architecture, Performance et Securité;Conference;OpenShift : le PaaS à la sauce Kubernetes et Docker;21;73;3.4761904762
+BUP-4761;Tango, you rock ! La vraie réalité virtuelle;Mobile, IoT;Tools-in-Action;Tango, you rock ! La vraie réalité virtuelle;20;76;3.8
+YJX-2462;Entrer dans les entrailles de Git, ou comment faire un commit sans faire du Git;DevOps, Agilité, Méthodologie & Tests;Tools-in-Action;Entrer dans les entrailles de Git, ou comment faire un commit sans faire du Git;20;85;4.25
+RUM-0213;Analytics et Big Data, une histoire de cubes...;Big Data & Analytics;Conference;Analytics et Big Data, une histoire de cubes...;20;69;3.45
+WTU-8740;Comment concevoir la navigation sur mobile ?;Web, HTML5 et UX;Conference;Comment concevoir la navigation sur mobile ?;19;89;4.6842105263
+CEK-5422;The Eclipse IDE: The Force Awakens;Java, JVM, Javas SE/EE;Conference;The Eclipse IDE: The Force Awakens;19;74;3.8947368421
+DRS-9311;Postgresql : la nouvelle base orientée document;Architecture, Performance et Securité;Tools-in-Action;Postgresql : la nouvelle base orientée document;19;81;4.2631578947
+DQA-6242;L'intelligence artificielle avec les services IBM Watson sur la plateforme Bluemix;Future, Robotique;Conference;L'intelligence artificielle avec les services IBM Watson sur la plateforme Bluemix;19;63;3.3157894737
+KSP-1220;IOT Streaming and Machine Learning to make Music !!;Future, Robotique;Conference;IOT Streaming and Machine Learning to make Music !!;19;82;4.3157894737
+LTL-8131;SonarLint in action;DevOps, Agilité, Méthodologie & Tests;Tools-in-Action;SonarLint in action;19;72;3.7894736842
+QGG-0236;Développez une application "Time Series" avec Apache Spark, HBase et l'API Kakfa;Big Data & Analytics;Hands-on Labs;Développez une application "Time Series" avec Apache Spark, HBase et l'API Kakfa;19;88;4.6315789474
+CLL-3487;L'architecture Redux en RxJS;Web, HTML5 et UX;Quickie;L'architecture Redux en RxJS;18;60;3.3333333333
+UAG-5747;Résoudre le puzzle Jigsaw avec Gradle;Java, JVM, Javas SE/EE;Conference;Résoudre le puzzle Jigsaw avec Gradle;18;74;4.1111111111
+ZSG-0256;Dropwizard : création de services REST "production-ready" en 25mn;Java, JVM, Javas SE/EE;Tools-in-Action;Dropwizard : création de services REST "production-ready" en 25mn;18;77;4.2777777778
+CIH-6001;Building a unikernel Java Application;Future, Robotique;Quickie;Building a unikernel Java Application;18;74;4.1111111111
+ODX-2518;Application Performance Management : facilitateur de DevOps. Etude du cas Groupama;DevOps, Agilité, Méthodologie & Tests;Conference;Application Performance Management : facilitateur de DevOps. Etude du cas Groupama;18;63;3.5
+PLR-9358;Exploiter les nouveautés de Docker pour déployer un jeu distribué. ;Cloud et Scaling;Hands-on Labs;Exploiter les nouveautés de Docker pour déployer un jeu distribué. ;18;72;4
+HGH-7790;Scalez de 0 à 10 millions d'utilisateurs avec AWS;Cloud et Scaling;Conference;Scalez de 0 à 10 millions d'utilisateurs avec AWS;18;74;4.1111111111
+EQI-1161;Construire un Fitbit-like pour chien et chat;Mobile, IoT;Tools-in-Action;Construire un Fitbit-like pour chien et chat;17;66;3.8823529412
+FVF-2230;Bouchez vos fuites mémoires avec LeakCanary!;Mobile, IoT;Tools-in-Action;Bouchez vos fuites mémoires avec LeakCanary!;17;72;4.2352941177
+HCH-2449;Comment Asciidoctor peut vous aider pour votre doc;DevOps, Agilité, Méthodologie & Tests;Quickie;Comment Asciidoctor peut vous aider pour votre doc;17;68;4
+XAD-6912;"SQL on Everything" avec Apache Drill;Big Data & Analytics;Tools-in-Action;"SQL on Everything" avec Apache Drill;17;67;3.9411764706
+SGB-0446;Polymer dans la vraie vie;Web, HTML5 et UX;Tools-in-Action;Polymer dans la vraie vie;16;72;4.5
+IRY-7614;Les nouveautés de CDI 2.0;Java, JVM, Javas SE/EE;Conference;Les nouveautés de CDI 2.0;16;64;4
+MWF-2015;Traiter 3 milliards de requêtes par jour. Qu'avons nous appris ?;Architecture, Performance et Securité;Conference;Traiter 3 milliards de requêtes par jour. Qu'avons nous appris ?;16;62;3.875
+SEP-9311;Continuous Delivery avec GoCD;DevOps, Agilité, Méthodologie & Tests;Tools-in-Action;Continuous Delivery avec GoCD;16;62;3.875
+KCX-6765;Loop, améliorez votre workflow de développement d'application Web;Web, HTML5 et UX;Quickie;Loop, améliorez votre workflow de développement d'application Web;15;65;4.3333333333
+HZH-1944;Google Dataflow: The new open model for batch and stream processing;Big Data & Analytics;Conference;Google Dataflow: The new open model for batch and stream processing;15;59;3.9333333333
+NGT-2773;La voiture connectée - un IoT au potentiel immense;Mobile, IoT;Conference;La voiture connectée - un IoT au potentiel immense;14;54;3.8571428571
+YGB-7042;The State of Open Source Licensing;Langages alternatifs;Conference;The State of Open Source Licensing;14;50;3.5714285714
+MFS-1489;Débridez les performances de vos applications avec Chronicle Queue;Architecture, Performance et Securité;Tools-in-Action;Débridez les performances de vos applications avec Chronicle Queue;14;42;3
+UPZ-9494;Des compilations vraiment reproductibles avec Maven;Architecture, Performance et Securité;Quickie;Des compilations vraiment reproductibles avec Maven;14;55;3.9285714286
+XLO-7954;Playing with Pepper robot;Future, Robotique;Hands-on Labs;Playing with Pepper robot;14;61;4.3571428571
+OHR-1553;Hands-on with Kubernetes - from basic to advanced features;Cloud et Scaling;Hands-on Labs;Hands-on with Kubernetes - from basic to advanced features;14;63;4.5
+NJI-6500;Let's React : le lab !!!;Web, HTML5 et UX;Hands-on Labs;Let's React : le lab !!!;13;46;3.5384615385
+CEM-1637;Hand's on Web Components with Polymer;Web, HTML5 et UX;Hands-on Labs;Hand's on Web Components with Polymer;13;63;4.8461538462
+KCE-0623;Architecture Informatique...hands-on et en direct !;Architecture, Performance et Securité;Hands-on Labs;Architecture Informatique...hands-on et en direct !;13;52;4
+JQK-3070;Boostez votre amélioration continue avec Popcorn Flow !;DevOps, Agilité, Méthodologie & Tests;Quickie;Boostez votre amélioration continue avec Popcorn Flow !;13;51;3.9230769231
+QVH-7970;Rancher, le (petit) orchestrateur docker qui vous veut du bien;DevOps, Agilité, Méthodologie & Tests;Tools-in-Action;Rancher, le (petit) orchestrateur docker qui vous veut du bien;13;51;3.9230769231
+VMC-3597;Event Storming : comprendre le métier autrement;DevOps, Agilité, Méthodologie & Tests;Hands-on Labs;Event Storming : comprendre le métier autrement;13;56;4.3076923077
+BAX-3287;Hadoop à grande échelle : comment croître sur le long terme;Cloud et Scaling;Conference;Hadoop à grande échelle : comment croître sur le long terme;13;56;4.3076923077
+LVY-5510;Rawr. Unified time series expressions with Timelion;Big Data & Analytics;Conference;Rawr. Unified time series expressions with Timelion;13;55;4.2307692308
+RWX-9026;Comment faire tourner une JVM de 16 To, par ceux qui l'ont fait;Big Data & Analytics;Conference;Comment faire tourner une JVM de 16 To, par ceux qui l'ont fait;13;59;4.5384615385
+XCB-5887;Modulariser votre JavaScript avec JSPM et SystemJs;Web, HTML5 et UX;Tools-in-Action;Modulariser votre JavaScript avec JSPM et SystemJs;12;41;3.4166666667
+WUZ-3067;Web Real Time Communication par la pratique;Web, HTML5 et UX;Hands-on Labs;Web Real Time Communication par la pratique;12;44;3.6666666667
+OFN-2448;Oubliez les migraines, faîtes de l'asynchrone... synchrone !;Web, HTML5 et UX;Tools-in-Action;Oubliez les migraines, faîtes de l'asynchrone... synchrone !;12;54;4.5
+XTM-6122;Sharper Better Faster Dagger ‡;Mobile, IoT;Conference;Sharper Better Faster Dagger ‡;12;44;3.6666666667
+UJG-9560;The Spring BOF;Java, JVM, Javas SE/EE;BOF (Bird of a Feather);The Spring BOF;12;51;4.25
+MMJ-2293;Get Back in Control of Your SQL with jOOQ;Java, JVM, Javas SE/EE;Conference;Get Back in Control of Your SQL with jOOQ;12;55;4.5833333333
+XUU-4683;A lite Rx API for the JVM;Java, JVM, Javas SE/EE;Hands-on Labs;A lite Rx API for the JVM;12;57;4.75
+VTZ-6817;How to defeat feature gluttony?;DevOps, Agilité, Méthodologie & Tests;Conference;How to defeat feature gluttony?;12;54;4.5
+IPM-5917;Apache Zeppelin, un notebook d'avenir pour l'éco-système Big Data;Big Data & Analytics;Tools-in-Action;Apache Zeppelin, un notebook d'avenir pour l'éco-système Big Data;12;48;4
+YTV-5483;Ten SQL Tricks that You Didn’t Think Were Possible;Big Data & Analytics;Conference;Ten SQL Tricks that You Didn’t Think Were Possible;12;56;4.6666666667
+GYS-1417;Spring Cloud *: Exploring Spring Cloud Implementations;Java, JVM, Javas SE/EE;Conference;Spring Cloud *: Exploring Spring Cloud Implementations;11;40;3.6363636364
+QAF-1315;Baptême du feu avec Rx;Architecture, Performance et Securité;Hands-on Labs;Baptême du feu avec Rx;11;50;4.5454545455
+ZKG-8991;Scaling with Kubernetes, Automatically!  Learn Kubernetes API through writing a visualizer to an autoscaler;DevOps, Agilité, Méthodologie & Tests;Conference;Scaling with Kubernetes, Automatically!  Learn Kubernetes API through writing a visualizer to an autoscaler;11;42;3.8181818182
+WQO-2887;Algorithmes distribués pour le Big Data, saison 2;Big Data & Analytics;Conference;Algorithmes distribués pour le Big Data, saison 2;11;44;4
+USR-4063;Gérer les erreurs avec l'aide du système de types de Scala !;Langages alternatifs;Conference;Gérer les erreurs avec l'aide du système de types de Scala !;10;39;3.9
+ZNQ-8267;Introduction à Scala;Langages alternatifs;Hands-on Labs;Introduction à Scala;10;45;4.5
+OFQ-6624;Java (8) eXperiments;Java, JVM, Javas SE/EE;Conference;Java (8) eXperiments;10;43;4.3
+TRH-2337;3 nuances de MoM;Architecture, Performance et Securité;Conference;3 nuances de MoM;10;33;3.3
+WFF-3798;Sécurisez vos applications Web gratuitement en quelques minutes avec Let's Encrypt;Architecture, Performance et Securité;Tools-in-Action;Sécurisez vos applications Web gratuitement en quelques minutes avec Let's Encrypt;10;37;3.7
+VWX-3520;L'odyssée du Continuous Delivery;DevOps, Agilité, Méthodologie & Tests;Conference;L'odyssée du Continuous Delivery;10;39;3.9
+LUC-9386;Real Real World Haskell;Langages alternatifs;Conference;Real Real World Haskell;9;38;4.2222222222
+PRV-3938;Infra as Code, choisissez vous la pilule rouge ou la pilule bleue ?;DevOps, Agilité, Méthodologie & Tests;Conference;Infra as Code, choisissez vous la pilule rouge ou la pilule bleue ?;9;28;3.1111111111
+ZRI-9714;See the Truth;DevOps, Agilité, Méthodologie & Tests;Quickie;See the Truth;9;36;4
+UUM-7751;Déploiement d'une app distribuée sur Mesos avec Docker, Marathon et MesosDNS;Cloud et Scaling;Hands-on Labs;Déploiement d'une app distribuée sur Mesos avec Docker, Marathon et MesosDNS;9;28;3.1111111111
+YXI-9843;À la découverte de la plateforme Android;Mobile, IoT;Hands-on Labs;À la découverte de la plateforme Android;8;35;4.375
+QVE-8471;Pourquoi Maurice ne doit surtout pas coder en go.;Langages alternatifs;Conference;Pourquoi Maurice ne doit surtout pas coder en go.;8;35;4.375
+SSE-2891;H2O, l'analyse prédictive sans coder ... ou presque;Big Data & Analytics;Tools-in-Action;H2O, l'analyse prédictive sans coder ... ou presque;8;26;3.25
+FFI-0883;Ehcache hors de son Element;Java, JVM, Javas SE/EE;Tools-in-Action;Ehcache hors de son Element;7;23;3.2857142857
+HNE-6288;Securiser son développement avec 10 outils open-source;Architecture, Performance et Securité;Hands-on Labs;Securiser son développement avec 10 outils open-source;6;22;3.6666666667
+AXS-0345;Mise en oeuvre effective de l'IBM Bluemix Garage Method avec DevOps Toolchains;DevOps, Agilité, Méthodologie & Tests;Conference;Mise en oeuvre effective de l'IBM Bluemix Garage Method avec DevOps Toolchains;6;18;3
+GXJ-0623;BOF Jenkins;DevOps, Agilité, Méthodologie & Tests;BOF (Bird of a Feather);BOF Jenkins;6;26;4.3333333333
+CHJ-9304;Où sont passés mes serveurs ?;Cloud et Scaling;Quickie;Où sont passés mes serveurs ?;6;22;3.6666666667
+ETV-5363;Apache Kafka - Stream Data Platform;Big Data & Analytics;Hands-on Labs;Apache Kafka - Stream Data Platform;6;24;4
+AIQ-1155;Rendez vos données vivantes avec D3.JS;Web, HTML5 et UX;Hands-on Labs;Rendez vos données vivantes avec D3.JS;5;19;3.8
+SYY-6872;Swift : nouvelles du front;Mobile, IoT;Conference;Swift : nouvelles du front;5;19;3.8
+YEQ-3532;BOF Sécurité et DevOps partie 1;Architecture, Performance et Securité;BOF (Bird of a Feather);BOF Sécurité et DevOps partie 1;5;23;4.6
+NZA-0524;Devoxx4Kids BOF: Qui, quoi, comment - partie 1;Future, Robotique;BOF (Bird of a Feather);Devoxx4Kids BOF: Qui, quoi, comment - partie 1;5;23;4.6
+ESZ-6610;BoF Communautés Software Craftsmanship;DevOps, Agilité, Méthodologie & Tests;BOF (Bird of a Feather);BoF Communautés Software Craftsmanship;5;22;4.4
+PGF-2414;Writing an InfoQ Mini Book with Asciidoctor;Cloud et Scaling;Quickie;Writing an InfoQ Mini Book with Asciidoctor;5;22;4.4
+JLB-0354;Unit test my search;Big Data & Analytics;Tools-in-Action;Unit test my search;5;19;3.8
